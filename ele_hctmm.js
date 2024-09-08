@@ -1,3 +1,8 @@
+/**
+ * 变量：elmck: 必填，账号cookie，短信登录面板项目地址：https://github.com/funaihui/eleWeb
+ * 定时随意，每天跑一遍就可以
+ * cron: 7 17 * * *
+ */
 const {
   sign,
   getToken,
